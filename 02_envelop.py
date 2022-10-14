@@ -15,9 +15,6 @@ envelop_x, envelop_y = 10, 7
 paper_x, paper_y = 6, 8
 
 
-
-
-
 envelop_sqare = envelop_x * envelop_y
 paper_sqare = paper_x * paper_y
 
